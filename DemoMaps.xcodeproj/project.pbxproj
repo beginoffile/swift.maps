@@ -14,6 +14,8 @@
 		05AF3F002B9003D8005723CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05AF3EFF2B9003D8005723CF /* Assets.xcassets */; };
 		05AF3F032B9003D8005723CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05AF3F012B9003D8005723CF /* LaunchScreen.storyboard */; };
 		05AF3F0B2B900711005723CF /* HomeSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AF3F0A2B900711005723CF /* HomeSwiftUI.swift */; };
+		05AF3F0D2B900F88005723CF /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AF3F0C2B900F88005723CF /* LocationManager.swift */; };
+		05C5DC722B91513800E9B164 /* PlacesSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C5DC712B91513800E9B164 /* PlacesSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		05AF3F022B9003D8005723CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05AF3F042B9003D8005723CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05AF3F0A2B900711005723CF /* HomeSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeSwiftUI.swift; sourceTree = "<group>"; };
+		05AF3F0C2B900F88005723CF /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		05C5DC712B91513800E9B164 /* PlacesSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				05AF3F012B9003D8005723CF /* LaunchScreen.storyboard */,
 				05AF3F042B9003D8005723CF /* Info.plist */,
 				05AF3F0A2B900711005723CF /* HomeSwiftUI.swift */,
+				05AF3F0C2B900F88005723CF /* LocationManager.swift */,
+				05C5DC712B91513800E9B164 /* PlacesSwiftUI.swift */,
 			);
 			path = DemoMaps;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			files = (
 				05AF3F0B2B900711005723CF /* HomeSwiftUI.swift in Sources */,
 				05AF3EFB2B9003D5005723CF /* ViewController.swift in Sources */,
+				05AF3F0D2B900F88005723CF /* LocationManager.swift in Sources */,
+				05C5DC722B91513800E9B164 /* PlacesSwiftUI.swift in Sources */,
 				05AF3EF72B9003D5005723CF /* AppDelegate.swift in Sources */,
 				05AF3EF92B9003D5005723CF /* SceneDelegate.swift in Sources */,
 			);
@@ -299,6 +307,7 @@
 				DEVELOPMENT_TEAM = 6LYSCZM2WQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DemoMaps/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Usar Localizacion";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -327,6 +336,7 @@
 				DEVELOPMENT_TEAM = 6LYSCZM2WQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DemoMaps/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Usar Localizacion";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
