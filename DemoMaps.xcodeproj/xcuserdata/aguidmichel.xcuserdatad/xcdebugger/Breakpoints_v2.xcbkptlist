@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2CF6D5A7-FF91-48E3-BC73-0E01C5A6CB15"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E4EE5AB-2607-45AE-9D9B-3E47DC437C18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoMaps/BuscadorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E4EE5AB-2607-45AE-9D9B-3E47DC437C18 - 523c3324fb19d3df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoMaps.BuscadorViewController.searchBarBookmarkButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "DemoMaps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aguidmichel/Documents/AppsIOS/DemoMaps/DemoMaps/BuscadorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "8E4EE5AB-2607-45AE-9D9B-3E47DC437C18 - 523c3324fb19d3df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoMaps.BuscadorViewController.searchBarBookmarkButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "DemoMaps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aguidmichel/Documents/AppsIOS/DemoMaps/DemoMaps/BuscadorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8E4EE5AB-2607-45AE-9D9B-3E47DC437C18 - 76c3fbc017858fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoMaps.BuscadorViewController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "DemoMaps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aguidmichel/Documents/AppsIOS/DemoMaps/DemoMaps/BuscadorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

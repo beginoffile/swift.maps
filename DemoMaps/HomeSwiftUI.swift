@@ -36,6 +36,11 @@ struct HomeSwiftUI: View {
             
 
         }.navigationTitle("Mapa SWIFTUI")
+            .toolbar{
+                NavigationLink(destination: PlacesSwiftUI()) {
+                    Text("Lugares")
+                }
+            }
             .onAppear{
                 showLocation()
             }
